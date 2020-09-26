@@ -22,3 +22,6 @@ dimwishlist:item=3850168899&perks=981914802,2822142346
 
 //notes:First In, Last Out
 dimwishlist:item=3616586446&perks=202670084,3142289711,3161816588,47981717,150943607
+
+//notes:Old Fashioned
+dimwishlist:item=3569802112&perks=2779035018,1015611457
